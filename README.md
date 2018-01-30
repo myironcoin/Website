@@ -11,3 +11,7 @@ The Iron Bank is located in the Free City of Braavos. It is arguably the most po
 What do we do? 
 
 When in need of financing to purchase a new castle or afford a major expense, The Iron Bank can provide the assistance you need to achieve your goals and find financial stability.The Iron Bank treats everyone equally. Whether you're a Prince or a peasant, the Iron Bank doesn't take debt lightly, and it doesn't forget.
+
+Why are we so powerful?
+
+Each of the Nine Free Cities has its own bank, for depositing and lending money. The largest bank by far is the Iron Bank of Braavos, which is as large and wealthy as the banks of all the other eight put together.
