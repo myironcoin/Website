@@ -18,3 +18,7 @@ When in need of financing to purchase a new castle or afford a major war expense
 Why are we so powerful?
 
 Each of the Nine Free Cities has its own bank, for depositing and lending money. The largest bank by far is the Iron Bank of Braavos, which is as large and wealthy as the banks of all the other eight put together. When princes or kings default on their debts or are foolish enough not to honor their agreements with the Iron Bank, new princes and kings appear with the Iron Bank's support. These new princes and kings then honor the previous debt along with paying back the money the bank loaned them in claiming their new power, lest they suffer the same fate as their predecessors. "The Iron Bank will have its due" is a common saying among Braavosi.
+
+What is the Ironcoin symbol ? 
+
+The Titan of Braavos is a massive statue that guards the harbor entrance to Braavos, one of the Free Cities. It stands nearly 400 feet tall. As a major landmark, the Titan is often used as a symbol of the city itself. The image of the Titan appears on Braavosi coinage.
