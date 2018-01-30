@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/IRONBANKOFBRAAVOS/IronCoin/blob/master/img-ironcoin.jpg)
+
 # IronCoin is the token of the Iron Bank of Braavos
 
 History
