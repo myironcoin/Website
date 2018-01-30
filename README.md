@@ -1,4 +1,4 @@
-# IronCoin
+# IronCoin is the token of the Iron Bank of Braavos
 
 History
 
@@ -6,4 +6,8 @@ The Iron Bank was founded long before the Doom of Valyria, when Braavos was stil
 
 What are we?
 
-The Iron Bank is located in the Free City of Braavos. It is arguably the most powerful financial institution in the Known World, with clients across Essos and Westeros, including the government of the King.
+The Iron Bank is located in the Free City of Braavos. It is arguably the most powerful financial institution in the Known World, with clients across Essos and Westeros, including lord, government, and King.
+
+What do we do? 
+
+When in need of financing to purchase a new castle or afford a major expense, The Iron Bank can provide the assistance you need to achieve your goals and find financial stability.The Iron Bank treats everyone equally. Whether you're a Prince or a peasant, the Iron Bank doesn't take debt lightly, and it doesn't forget.
