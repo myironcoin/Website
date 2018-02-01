@@ -22,3 +22,9 @@ Each of the Nine Free Cities has its own bank, for depositing and lending money.
 **What is the IronCoin symbol?** 
 
 The Titan of Braavos is a massive statue that guards the harbor entrance to Braavos. It stands nearly 400 feet tall. As a major landmark, the Titan is often used as a symbol of the city itself. The image of the Titan appears on Braavosi coinage. The Titan is one of the nine Wonders Made by Man and the legend say than in the old times, whenever Braavos stood in danger, the titan would step with fire in his eyes. He'd wade into the sea and smash the enemies.  
+
+
+
+<p align="center"> 
+<img src="https://github.com/IRONBANKOFBRAAVOS/IronCoin/blob/master/logo-ironcoin.jpg" width="250">
+</p>
