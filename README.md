@@ -1,30 +1,71 @@
+# [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
-![alt text](https://github.com/IRONBANKOFBRAAVOS/IronCoin/blob/master/img-ironcoin.jpg)
+[Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
-# IronCoin is the token of the Iron Bank of Braavos - #IRC
+## Preview
 
-**History**
+[![Agency Preview](https://startbootstrap.com/assets/img/templates/agency.jpg)](https://blackrockdigital.github.io/startbootstrap-agency/)
 
-The Iron Bank was founded long before the Doom of Valyria, when Braavos was still a "secret city", hidden from the Valyrian Freehold. It was formed by successful traders and craftsmen. Its name comes from the abandoned iron mine in which the bank's founders placed all their funds. The mine had a single entrance, which they sealed with heavy gates and iron bars and protected by guards hired jointly by all the members. The Iron Bank has moved to new, grander quarters since that day, but the mine is still employed as a depository, as well as being a historical site of the city.
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-agency/)**
 
-**What are we?**
+## Status
 
-The Iron Bank is located in the Free City of Braavos. It is arguably the most powerful financial institution in the Known World, with clients across Essos and Westeros, including lord, government, and King.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-agency.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-agency)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency?type=dev)
 
-**What do we do?** 
+## Download and Installation
 
-When in need of financing to purchase a new castle or afford a major war expense, The Iron Bank can provide the assistance you need to achieve your goals and find financial stability.The Iron Bank treats everyone equally. Whether you're a Prince or a peasant, the Iron Bank doesn't take debt lightly, and it doesn't forget.
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/agency/)
+* Install via npm: `npm i startbootstrap-agency`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-agency)
 
-**Why are we so powerful?**
+## Usage
 
-Each of the Nine Free Cities has its own bank, for depositing and lending money. The largest bank by far is the Iron Bank of Braavos, which is as large and wealthy as the banks of all the other eight put together. When princes or kings default on their debts or are foolish enough not to honor their agreements with the Iron Bank, new princes and kings appear with the Iron Bank's support. These new princes and kings then honor the previous debt along with paying back the money the bank loaned them in claiming their new power, lest they suffer the same fate as their predecessors. "The Iron Bank will have its due" is a common saying among Braavosi.
+### Basic Usage
 
-**What is the IronCoin symbol?** 
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-The Titan of Braavos is a massive statue that guards the harbor entrance to Braavos. It stands nearly 400 feet tall. As a major landmark, the Titan is often used as a symbol of the city itself. The image of the Titan appears on Braavosi coinage. The Titan is one of the nine Wonders Made by Man and the legend say than in the old times, whenever Braavos stood in danger, the titan would step with fire in his eyes. He'd wade into the sea and smash the enemies.  
+### Advanced Usage
 
+After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
+#### Gulp Tasks
 
-<p align="center"> 
-<img src="https://github.com/IRONBANKOFBRAAVOS/IronCoin/blob/master/logo-ironcoin.jpg" width="250">
-</p>
+- `gulp` the default task that builds everything
+- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
+- `gulp sass` compiles SCSS files into CSS
+- `gulp minify-css` minifies the compiled CSS file
+- `gulp minify-js` minifies the themes JS file
+- `gulp copy` copies dependencies from node_modules to the vendor directory
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+
+## Custom Builds
+
+You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
