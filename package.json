@@ -1,8 +1,8 @@
 {
-    "title": "Ironcoin",
-    "name": "Ironcoin official website",
-    "version": "1.0",
-    "description": "Official Ironcoin website",
+    "title": "Agency",
+    "name": "startbootstrap-agency",
+    "version": "4.1.1",
+    "description": "Agency is a one page HTML theme for Bootstrap.",
     "keywords": [
         "css",
         "sass",
@@ -11,19 +11,19 @@
         "theme",
         "template"
     ],
-    "homepage": "ironcoin.net",
+    "homepage": "https://startbootstrap.com/template-overviews/agency",
     "bugs": {
-        "url": "ironcoin.net/issues",
-        "email": "feedback@ironcoin.net"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
+        "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Ironcoin fan",
+    "author": "Start Bootstrap",
     "contributors": [
-        "Faceless man"
+        "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/myironcoin/IronCoin.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
